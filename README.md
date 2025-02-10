@@ -28,11 +28,12 @@ A. High-Resolution Input Spectra |B. Enfys Sampled Spectra
 
 For this development I am using a local copy of the sptk repository, and I have installed this via conda in development mode. The dependency, including the local path to the sptk repository, is included in the environment.yml file of this repository.
 
-To recreate this, clone a copy of the sptk/cassis_development branch, and then copy the path of this local repository copy and replace the coresponding line of the environment.yml file:
+To recreate this, clone a copy of the sptk/cassis_development branch, and then copy the path of this local repository copy and replace the corresponding line of the environment.yml file:
 
+Replace this with the location of your local cloned copy of the ```cassis_sptk`` branch:
 ```
   - pip:
-    - -e /Users/a-rogs/Documents/software/sptk
+    - -e /Users/a-rogs/Documents/software/sptk 
 ```
 
 To run this notebook, create an environment from the [```environment.yml```](./environment.yml) file:
@@ -44,7 +45,7 @@ conda env create -f environment.yml
 Once the dependencies, including the local copy of **sptk** have completed installing, activate the environment with:
 
 ```
-conda activate cassis_sptk
+conda activate enfys_sptk
 ```
 
 ## Authors <a name = "authors"></a>
