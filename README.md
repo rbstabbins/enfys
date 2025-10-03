@@ -9,10 +9,17 @@
 
 - [Simulating the Spectral Sampling of the Enfys IR Spectrometer](#simulating-the-spectral-sampling-of-the-enfys-ir-spectrometer)
   - [Table of Contents](#table-of-contents)
+  - [Update - ExoMars Mission Reference Samples ](#update---exomars-mission-reference-samples-)
   - [About ](#about-)
   - [Setup ](#setup-)
   - [Authors ](#authors-)
   - [Acknowledgements ](#acknowledgements-)
+
+## Update - ExoMars Mission Reference Samples <a name = "update"></a>
+
+This branch is used to resample data collected of the ExoMars Mission Reference Samples using analogue instruments that cover the Enfys spectral range.
+
+[TODO describe any changes made to the software for this]
 
 ## About <a name = "about"></a>
 
