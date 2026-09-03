@@ -1,0 +1,14 @@
+Data ID,Unique ID for this measurement
+Sample ID,ID of target specimen
+Mineral Name,species/phase
+Sample Description,Bulk/Powder etc.
+Date Added,DDMMYYYY
+Viewing Geometry,"(i, e)"
+Other Information,Notes
+Grain Size,String of range with units
+Database of Origin,e.g. RELAB/USGS etc.
+Wavelength,Response
+380,0.03
+381,0.035
+...,...
+[paste here (nm units)],[paste here reflectance over 0 - 1]
